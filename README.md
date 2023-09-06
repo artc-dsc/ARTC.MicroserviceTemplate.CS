@@ -12,7 +12,7 @@ ASP.NET Core Runtime 7.0.10 | https://dotnet.microsoft.com/en-us/download/dotnet
 
 The Repository contains 2 templates, each for their specific purposes:
 
-Software  | Download Link
+Folder  | Description
 ------------- | -------------
 ARTC.Microservice | Contains directives to Authorization, Users, Roles, Scopes, Tenant Managements, Select this if your application is a cloud application.
 ARTC.MicroserviceNonAuth | Does not contain directives to Authorization, Users, Roles, Scopes, Tenant Managements, Select this if your application is an On-Premise Application
