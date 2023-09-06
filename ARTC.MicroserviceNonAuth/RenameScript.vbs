@@ -1,4 +1,4 @@
-oldName = "Microservice"
+oldName = "MicroserviceNonAuth"
 reservedLibKeyword = "Microservice.Utility"
 reserveLibPlaceholder = "M!CR0$3RVIC3UT!L!TY"
 newName = InputBox("Please enter new project root name")
