@@ -14,7 +14,7 @@ The Repository contains 2 templates, each for their specific purposes:
 
 Software  | Download Link
 ------------- | -------------
-ARTC.Microservice | Contains Authorization, Users, Roles, Scopes, Tenant Managements, Select this if your application is a cloud application.
+ARTC.Microservice | Contains directives to Authorization, Users, Roles, Scopes, Tenant Managements, Select this if your application is a cloud application.
 ARTC.MicroserviceNonAuth | Does not contain Authorization, Users, Roles, Scopes, Tenant Managements, Select this if your application is an On-Premise Application
 
 After cloning:
