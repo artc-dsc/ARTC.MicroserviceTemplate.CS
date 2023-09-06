@@ -59,6 +59,20 @@ II. Change the connection string of your database to a prefered name other than 
     Trusted_Connection=True;TrustServerCertificate=True"
   }
 
+III. The RabbitMQ Key allows users to configure distributed events for communications between microservices. For additional details and advanced configurations, refer to documentation here: https://docs.abp.io/en/abp/latest/Distributed-Event-Bus-RabbitMQ-Integration
+
+"RabbitMQ": {
+
+    "Connections": {
+      "Default": {
+        "HostName": "localhost"
+      }
+    },
+    "EventBus": {
+      "ClientName": "OrcaHub_ServiceAuth", //Queue Name.
+      "ExchangeName": "OrcaHub_Exchange" //Your microservice should always point to the main hub exchange instead of making another exchange.
+    }
+  }
 
 ### ARTC.Microservice 
 
@@ -104,6 +118,21 @@ The "Default" key should always be maintained which serves as the configuration 
     "Microservice": "Server=localhost;Database=ARTCMicroservice;Trusted_Connection=True;TrustServerCertificate=True" //Point this to database of This service, fix key name in startup
   },
 
+
+III. The RabbitMQ Key allows users to configure distributed events for communications between microservices. For additional details and advanced configurations, refer to documentation here: https://docs.abp.io/en/abp/latest/Distributed-Event-Bus-RabbitMQ-Integration
+
+"RabbitMQ": {
+
+    "Connections": {
+      "Default": {
+        "HostName": "localhost"
+      }
+    },
+    "EventBus": {
+      "ClientName": "OrcaHub_ServiceAuth", //Queue Name.
+      "ExchangeName": "OrcaHub_Exchange" //Your microservice should always point to the main hub exchange instead of making another exchange.
+    }
+  }
 
 
 ## Useful Links

@@ -7,6 +7,7 @@ using Volo.Abp.Autofac;
 using Volo.Abp.Modularity;
 using Volo.Abp.Swashbuckle;
 using ARTC.MicroserviceNonAuth.EntityFrameworkCore;
+using Volo.Abp.EventBus.RabbitMq;
 
 namespace ARTC.MicroserviceNonAuth.HttpApi.Host
 {
@@ -17,7 +18,8 @@ namespace ARTC.MicroserviceNonAuth.HttpApi.Host
     typeof(MicroserviceNonAuthEntityFrameworkCoreModule),
     typeof(AbpAutofacModule),
     typeof(AbpAspNetCoreSerilogModule),
-    typeof(AbpSwashbuckleModule)
+    typeof(AbpSwashbuckleModule),
+    typeof(AbpEventBusRabbitMqModule)
     )]
     public class MicroserviceNonAuthHostModule : AbpModule
     {
