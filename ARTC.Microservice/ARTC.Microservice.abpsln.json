@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "ARTC.Microservice": {
+      "path": "ARTC.Microservice.abpmdl.json"
+    }
+  }
+}

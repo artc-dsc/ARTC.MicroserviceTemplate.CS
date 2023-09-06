@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "ARTC.MicroserviceNonAuth": {
+      "path": "ARTC.MicroserviceNonAuth.abpmdl.json"
+    }
+  }
+}

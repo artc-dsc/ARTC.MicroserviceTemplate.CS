@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <Import Project="..\..\common.props" />
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <GenerateEmbeddedFilesManifest>true</GenerateEmbeddedFilesManifest>
+        <RootNamespace>ARTC.MicroserviceNonAuth</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Volo.Abp.VirtualFileSystem" Version="7.2.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="..\..\ARTC.MicroserviceNonAuth.abpmdl.json" />
+      <Content Include="..\..\ARTC.MicroserviceNonAuth.abpmdl.json">
+        <Pack>true</Pack>
+        <PackagePath>content\</PackagePath>
+      </Content>
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,111 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "ARTC.MicroserviceNonAuth.Domain.Shared": {
+      "path": "src/ARTC.MicroserviceNonAuth.Domain.Shared/ARTC.MicroserviceNonAuth.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.MicroserviceNonAuth.Domain": {
+      "path": "src/ARTC.MicroserviceNonAuth.Domain/ARTC.MicroserviceNonAuth.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.MicroserviceNonAuth.Application.Contracts": {
+      "path": "src/ARTC.MicroserviceNonAuth.Application.Contracts/ARTC.MicroserviceNonAuth.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.MicroserviceNonAuth.Application": {
+      "path": "src/ARTC.MicroserviceNonAuth.Application/ARTC.MicroserviceNonAuth.Application.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.MicroserviceNonAuth.EntityFrameworkCore": {
+      "path": "src/ARTC.MicroserviceNonAuth.EntityFrameworkCore/ARTC.MicroserviceNonAuth.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.MicroserviceNonAuth.MongoDB": {
+      "path": "src/ARTC.MicroserviceNonAuth.MongoDB/ARTC.MicroserviceNonAuth.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.MicroserviceNonAuth.HttpApi": {
+      "path": "src/ARTC.MicroserviceNonAuth.HttpApi/ARTC.MicroserviceNonAuth.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.MicroserviceNonAuth.HttpApi.Client": {
+      "path": "src/ARTC.MicroserviceNonAuth.HttpApi.Client/ARTC.MicroserviceNonAuth.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.MicroserviceNonAuth.TestBase": {
+      "path": "test/ARTC.MicroserviceNonAuth.TestBase/ARTC.MicroserviceNonAuth.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "ARTC.MicroserviceNonAuth.EntityFrameworkCore.Tests": {
+      "path": "test/ARTC.MicroserviceNonAuth.EntityFrameworkCore.Tests/ARTC.MicroserviceNonAuth.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "ARTC.MicroserviceNonAuth.MongoDB.Tests": {
+      "path": "test/ARTC.MicroserviceNonAuth.MongoDB.Tests/ARTC.MicroserviceNonAuth.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "ARTC.MicroserviceNonAuth.Domain.Tests": {
+      "path": "test/ARTC.MicroserviceNonAuth.Domain.Tests/ARTC.MicroserviceNonAuth.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "ARTC.MicroserviceNonAuth.Application.Tests": {
+      "path": "test/ARTC.MicroserviceNonAuth.Application.Tests/ARTC.MicroserviceNonAuth.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "ARTC.MicroserviceNonAuth.HttpApi.Host": {
+      "path": "host/ARTC.MicroserviceNonAuth.HttpApi.Host/ARTC.MicroserviceNonAuth.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "ARTC.MicroserviceNonAuth.Web": {
+      "path": "src/ARTC.MicroserviceNonAuth.Web/ARTC.MicroserviceNonAuth.Web.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.MicroserviceNonAuth.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/ARTC.MicroserviceNonAuth.HttpApi.Client.ConsoleTestApp/ARTC.MicroserviceNonAuth.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "ARTC.MicroserviceNonAuth.Web.Host": {
+      "path": "host/ARTC.MicroserviceNonAuth.Web.Host/ARTC.MicroserviceNonAuth.Web.Host.abppkg.json",
+      "folder": "host"
+    },
+    "ARTC.MicroserviceNonAuth.AuthServer": {
+      "path": "host/ARTC.MicroserviceNonAuth.AuthServer/ARTC.MicroserviceNonAuth.AuthServer.abppkg.json",
+      "folder": "host"
+    },
+    "ARTC.MicroserviceNonAuth.Host.Shared": {
+      "path": "host/ARTC.MicroserviceNonAuth.Host.Shared/ARTC.MicroserviceNonAuth.Host.Shared.abppkg.json",
+      "folder": "host"
+    },
+    "ARTC.MicroserviceNonAuth.Web.Unified": {
+      "path": "host/ARTC.MicroserviceNonAuth.Web.Unified/ARTC.MicroserviceNonAuth.Web.Unified.abppkg.json",
+      "folder": "host"
+    },
+    "ARTC.MicroserviceNonAuth.Blazor": {
+      "path": "src/ARTC.MicroserviceNonAuth.Blazor/ARTC.MicroserviceNonAuth.Blazor.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.MicroserviceNonAuth.Blazor.Host": {
+      "path": "host/ARTC.MicroserviceNonAuth.Blazor.Host/ARTC.MicroserviceNonAuth.Blazor.Host.abppkg.json",
+      "folder": "host"
+    },
+    "ARTC.MicroserviceNonAuth.Blazor.Server": {
+      "path": "src/ARTC.MicroserviceNonAuth.Blazor.Server/ARTC.MicroserviceNonAuth.Blazor.Server.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.MicroserviceNonAuth.Blazor.WebAssembly": {
+      "path": "src/ARTC.MicroserviceNonAuth.Blazor.WebAssembly/ARTC.MicroserviceNonAuth.Blazor.WebAssembly.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.MicroserviceNonAuth.Blazor.Server.Host": {
+      "path": "host/ARTC.MicroserviceNonAuth.Blazor.Server.Host/ARTC.MicroserviceNonAuth.Blazor.Server.Host.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

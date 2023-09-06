@@ -1,0 +1,111 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "ARTC.Microservice.Domain.Shared": {
+      "path": "src/ARTC.Microservice.Domain.Shared/ARTC.Microservice.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.Microservice.Domain": {
+      "path": "src/ARTC.Microservice.Domain/ARTC.Microservice.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.Microservice.Application.Contracts": {
+      "path": "src/ARTC.Microservice.Application.Contracts/ARTC.Microservice.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.Microservice.Application": {
+      "path": "src/ARTC.Microservice.Application/ARTC.Microservice.Application.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.Microservice.EntityFrameworkCore": {
+      "path": "src/ARTC.Microservice.EntityFrameworkCore/ARTC.Microservice.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.Microservice.MongoDB": {
+      "path": "src/ARTC.Microservice.MongoDB/ARTC.Microservice.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.Microservice.HttpApi": {
+      "path": "src/ARTC.Microservice.HttpApi/ARTC.Microservice.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.Microservice.HttpApi.Client": {
+      "path": "src/ARTC.Microservice.HttpApi.Client/ARTC.Microservice.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.Microservice.TestBase": {
+      "path": "test/ARTC.Microservice.TestBase/ARTC.Microservice.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "ARTC.Microservice.EntityFrameworkCore.Tests": {
+      "path": "test/ARTC.Microservice.EntityFrameworkCore.Tests/ARTC.Microservice.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "ARTC.Microservice.MongoDB.Tests": {
+      "path": "test/ARTC.Microservice.MongoDB.Tests/ARTC.Microservice.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "ARTC.Microservice.Domain.Tests": {
+      "path": "test/ARTC.Microservice.Domain.Tests/ARTC.Microservice.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "ARTC.Microservice.Application.Tests": {
+      "path": "test/ARTC.Microservice.Application.Tests/ARTC.Microservice.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "ARTC.Microservice.HttpApi.Host": {
+      "path": "host/ARTC.Microservice.HttpApi.Host/ARTC.Microservice.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "ARTC.Microservice.Web": {
+      "path": "src/ARTC.Microservice.Web/ARTC.Microservice.Web.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.Microservice.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/ARTC.Microservice.HttpApi.Client.ConsoleTestApp/ARTC.Microservice.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "ARTC.Microservice.Web.Host": {
+      "path": "host/ARTC.Microservice.Web.Host/ARTC.Microservice.Web.Host.abppkg.json",
+      "folder": "host"
+    },
+    "ARTC.Microservice.AuthServer": {
+      "path": "host/ARTC.Microservice.AuthServer/ARTC.Microservice.AuthServer.abppkg.json",
+      "folder": "host"
+    },
+    "ARTC.Microservice.Host.Shared": {
+      "path": "host/ARTC.Microservice.Host.Shared/ARTC.Microservice.Host.Shared.abppkg.json",
+      "folder": "host"
+    },
+    "ARTC.Microservice.Web.Unified": {
+      "path": "host/ARTC.Microservice.Web.Unified/ARTC.Microservice.Web.Unified.abppkg.json",
+      "folder": "host"
+    },
+    "ARTC.Microservice.Blazor": {
+      "path": "src/ARTC.Microservice.Blazor/ARTC.Microservice.Blazor.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.Microservice.Blazor.Host": {
+      "path": "host/ARTC.Microservice.Blazor.Host/ARTC.Microservice.Blazor.Host.abppkg.json",
+      "folder": "host"
+    },
+    "ARTC.Microservice.Blazor.Server": {
+      "path": "src/ARTC.Microservice.Blazor.Server/ARTC.Microservice.Blazor.Server.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.Microservice.Blazor.WebAssembly": {
+      "path": "src/ARTC.Microservice.Blazor.WebAssembly/ARTC.Microservice.Blazor.WebAssembly.abppkg.json",
+      "folder": "src"
+    },
+    "ARTC.Microservice.Blazor.Server.Host": {
+      "path": "host/ARTC.Microservice.Blazor.Server.Host/ARTC.Microservice.Blazor.Server.Host.abppkg.json",
+      "folder": "host"
+    }
+  }
+}
