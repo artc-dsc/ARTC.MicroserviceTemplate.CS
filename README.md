@@ -42,6 +42,7 @@ The appsettings.json file located in HttpApi.Host module contains:
 
 I. You may add in additional URLs followed after a delimiting comma in the App Configuration
 to configure Cors policy endpoints
+
   "App": 
   {
 
